@@ -1,2 +1,2 @@
 ﻿  app.cpp
-  FirstProject.vcxproj -> C:\Users\kendr\OneDrive\Documents\GitHub\OpenGL\FirstProject\bin\Win32\Debug\FirstProject.exe
+C:\Users\kendr\OneDrive\Documents\GitHub\OpenGL\FirstProject\FirstProject\src\app.cpp(41,32): error C2198: 'PFNGLENABLEVERTEXARRAYATTRIBPROC': too few arguments for call
